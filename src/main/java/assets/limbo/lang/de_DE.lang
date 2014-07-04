@@ -1,3 +1,45 @@
-itemGroup.limboTab=Limbo Blocke
+itemGroup.limboTab=Limbo Blocks
+itemGroup.limboTabItems=Limbo Gegenstande
+itemGroup.limboTabTW=Limbo Werkzeuge & Waffen
 
 tile.limboStone.name=Limbo Stein
+tile.limboCobble.name=Limbo Bruchstein
+tile.limboLog.name=Limbo Holz
+tile.limboWater.name=Limbo Wasser
+tile.mysticBlock.name=Mystic Block
+tile.soulOre.name=Seelen Erz
+tile.limboGrass.name=Limbo Gras
+tile.limboPlanks.name=Limbo Holzbretter
+tile.limboTorch.name=Limbo Fackel
+tile.limboLeaf.name=Limbo Laub
+tile.limboDirt.name=Limbo Erde
+tile.portalLimboBlock.name=Limbo Portal
+tile.mysticOre.name=Mystisch Erz
+
+item.mystical.name=Mystisch
+item.cursedApple.name=Verfluchte Apfel
+item.forgotten.name=Vergessene
+item.forgottenMetal.name=Forgotten Metal
+item.limboClaw.name=Limbo Claw
+item.limboDust.name=Limbo Dust
+item.scythe.name=Scythe
+item.whitesoul.name=Weiße Seele
+item.whiltesoul1.name=Verfeinerte Weiße Seele
+item.blacksoul.name=Schwarze Seele
+item.limboForgottenPick.name=Vergessene Spitzhacke
+item.limboForgottenAxe.name=Vergessene Axt
+item.limboForgottenSpade.name=Vergessene Schaufel
+item.limboForgottenHoe.name=Vergessene Feldhacke
+item.limboForgottenSword.name=Vergessene Schwert
+item.limboWoodPick.name=Limbo Holz Spitzhacke
+item.limboWoodAxe.name=Limbo Holz Axt
+item.limboWoodSpade.name=Limbo Holz Schaufel
+item.limboWoodHoe.name=Limbo Holz Feldhacke
+item.limboWoodSword.name=Limbo Holz Schwert
+item.whitesoulHelmet.name=Weiß Seele Helm
+item.whitesoulChest.name=Weiß Seele Hemd
+item.whitesoulLegs.name=Weiß Seele Hose
+item.whitesoulBoots.name=Weiß Seele Stiefel
+
+
+entity.entityCursed.name=Die Verfluchte
