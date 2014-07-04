@@ -1,0 +1,16 @@
+[
+{
+  "modid": "limbo",
+  "name": "Limbo Mod",
+  "description": "Enter the depths of Limbo and escape!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Tekek & MiCr2"],
+  "credits": "The Forge and FML guys, and the coders of this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

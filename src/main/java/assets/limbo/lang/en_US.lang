@@ -1,0 +1,45 @@
+itemGroup.limboTab=Limbo Blocks
+itemGroup.limboTabItems=Limbo Items
+itemGroup.limboTabTW=Limbo Tools & Weapons
+
+tile.limboStone.name=Limbo Stone
+tile.limboCobble.name=Limbo Cobblestone
+tile.limboLog.name=Limbo Log
+tile.limboWater.name=Limbo Water
+tile.mysticBlock.name=Mystic Block
+tile.soulOre.name=Soul Ore
+tile.limboGrass.name=Limbo Grass
+tile.limboPlanks.name=Limbo Plank
+tile.limboTorch.name=Limbo Torch
+tile.limboLeaf.name=Limbo Leaf
+tile.limboDirt.name=Limbo Dirt
+tile.portalLimboBlock.name=Limbo Portal
+tile.mysticOre.name=Mystical Ore
+
+item.mystical.name=Mystical
+item.cursedApple.name=Cursed Apple
+item.forgotten.name=Forgotten
+item.forgottenMetal.name=Forgotten Metal
+item.limboClaw.name=Limbo Claw
+item.limboDust.name=Limbo Dust
+item.scythe.name=Scythe
+item.whitesoul.name=White Soul
+item.whiltesoul1.name=Refined White Soul
+item.blacksoul.name=Black Soul
+item.limboForgottenPick.name=Forgotten Pickaxe
+item.limboForgottenAxe.name=Forgotten Axe
+item.limboForgottenSpade.name=Forgotten Shovel
+item.limboForgottenHoe.name=Forgotten Hoe
+item.limboForgottenSword.name=Forgotten Sword
+item.limboWoodPick.name=Limbo Wooden Pickaxe
+item.limboWoodAxe.name=Limbo Wooden Axe
+item.limboWoodSpade.name=Limbo Wooden Shovel
+item.limboWoodHoe.name=Limbo Wooden Hoe
+item.limboWoodSword.name=Limbo Wooden Sword
+item.whitesoulHelmet.name=White Soul Helmet
+item.whitesoulChest.name=White Soul Chestplate
+item.whitesoulLegs.name=White Soul Legs
+item.whitesoulBoots.name=White Soul Boots
+
+
+entity.entityCursed.name=The Cursed
